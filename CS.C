@@ -31,11 +31,3 @@ strcat(fs,y);
 printf("\n after stuffing : %s",fs);
 getch();
 }
-
-
-
-
-
-
-
-
